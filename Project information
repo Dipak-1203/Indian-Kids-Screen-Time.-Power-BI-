@@ -1,0 +1,44 @@
+# 📊 Indian Kids Screen Time – Power BI Dashboard
+
+🚀 **Project Overview**  
+This is a quick data analytics project where I created an interactive Power BI dashboard in **just 1 hour**, using a **single-table dataset** focused on **Indian kids' screen time habits**.
+
+---
+
+## 🔍 Key Insights:
+- 📱 **Smartphones** are the most commonly used device by kids.
+- 👦 Kids using **laptops** have the highest **median age**.
+- 👁️ Common health impacts include **eye strain**, **poor posture**, and **anxiety**.
+- 🏙️ Screen time usage is nearly equal between **urban and rural** kids.
+- 👧 Slightly more **female** users than male.
+
+---
+
+## 🛠 Tools Used:
+- **Power BI** – for dashboard creation and DAX calculations  
+- **Excel** – for basic data cleaning and formatting
+
+---
+
+## 📁 Files Included:
+- `Indian_Kids_Screen_Time.csv` – Raw dataset used for analysis  
+- `Indian_Kids_Screen_Time.pbix` – Power BI dashboard file  
+- `Screenshot.png` – Dashboard preview
+
+---
+
+## 🔗 Connect with Me:
+📄 Check out the full post on **LinkedIn**:  
+[🔗 LinkedIn Post]()
+
+🙋‍♂️ I'm open to feedback, suggestions, and collaboration!
+
+---
+
+## 📌 About the Project:
+This project helped me improve my skills in:
+- Data storytelling
+- Dashboard design
+- Fast-paced analysis (completed in just 1 hour)
+
+
